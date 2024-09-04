@@ -1,4 +1,5 @@
 # inventory.py
+# Made by Didi 
 
 class Shoe:
     def __init__(self, country, code, product, cost, quantity):
@@ -128,7 +129,7 @@ def main():
         elif choice == '0':
             break
         else:
-            print("Invalid choice. Please try again.")
+            print("Invalid choice. Please try again.\n\n ")
 
 if __name__ == "__main__":
     main()
