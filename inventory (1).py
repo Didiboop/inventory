@@ -1,4 +1,5 @@
 # inventory.py
+# made by didi 
 
 class Shoe:
     def __init__(self, country, code, product, cost, quantity):
